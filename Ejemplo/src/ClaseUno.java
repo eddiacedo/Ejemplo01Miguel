@@ -8,6 +8,6 @@ int propiedadCuatro;
 int propiedadSeis;
 
 int propiedadCinco;
-int propieddadSiete;
+int propiedadSiete;
 
 }
