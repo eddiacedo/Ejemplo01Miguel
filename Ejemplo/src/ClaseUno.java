@@ -4,4 +4,5 @@ int propiedadUna;
 int propiedadDos;
 int propiedadTres;
 int propiedadCinco;
+int propieddadSiete;
 }
