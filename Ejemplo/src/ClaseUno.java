@@ -9,5 +9,5 @@ int propiedadSeis;
 
 int propiedadCinco;
 int propiedadSiete;
-
+int propiedadOcho;
 }
